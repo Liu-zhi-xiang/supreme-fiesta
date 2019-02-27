@@ -7,3 +7,4 @@ Git is free software distributed under the GPL.
 3333333333333333
 4444444444444444
 添加 dev 分支
+Creating a new branch is quick AND simple.
