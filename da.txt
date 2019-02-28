@@ -1,0 +1,91 @@
+[33mcommit f2e2cce6515fa163cbe6c333ce6c619d99aecfdb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3531531 429fbce
+Author: lzx001 <1910609992@qq.com>
+Date:   Wed Feb 27 17:02:17 2019 +0800
+
+    merge with no-ff
+
+[33mcommit 429fbce5d62eca85e0aca5f894455ba38d01b78f[m[33m ([m[1;32mdev[m[33m)[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Wed Feb 27 16:58:51 2019 +0800
+
+    add merge
+
+[33mcommit 35315317eefc1023fcd76b1d7f5fc0b5d8c868b5[m
+Merge: dfee392 8ab0edd
+Author: lzx001 <1910609992@qq.com>
+Date:   Wed Feb 27 16:42:59 2019 +0800
+
+    conflict fixed
+
+[33mcommit dfee3928c8dbb5eb614815dd6f190c46424c7dbd[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Wed Feb 27 16:34:38 2019 +0800
+
+    & simple
+
+[33mcommit 8ab0edd66fa3d5e2d71af458df8b6372a19eaad2[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Wed Feb 27 16:33:27 2019 +0800
+
+    AND simple
+
+[33mcommit b43c4cee16b858e3445dd41ecfeea083eca7aefc[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Wed Feb 27 16:25:49 2019 +0800
+
+    branch test
+
+[33mcommit fd0788ba48118f2eabea2c7996f4a16e541ea827[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Wed Feb 27 11:32:56 2019 +0800
+
+    GitHup-one
+
+[33mcommit 81dee8df8618a56286d6051ef629298372d902c3[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Tue Feb 26 17:18:14 2019 +0800
+
+    delete
+
+[33mcommit c4af32f5d8c7bb6aab619981c35915005f1719d8[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Tue Feb 26 17:14:24 2019 +0800
+
+    aaaa
+
+[33mcommit b4cda43fc0115284001cb7f00cf3c4cb6e9c31e9[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Tue Feb 26 16:59:06 2019 +0800
+
+    4444444
+
+[33mcommit 3424b004e354e32a507dcd0ef046d6c681b92e93[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Tue Feb 26 16:56:13 2019 +0800
+
+    git tracks changes
+
+[33mcommit ba04fe9b0c80975ca665fdecee6ca0a8c1555597[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Tue Feb 26 16:48:43 2019 +0800
+
+    understand how stage works
+
+[33mcommit 6a05117e7d7785054ba7d82a26b18a1cdd0dd622[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Tue Feb 26 15:23:56 2019 +0800
+
+    append GPL
+
+[33mcommit 76ed29917a64694dffe3b074f55174966fc5a73e[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Tue Feb 26 15:21:07 2019 +0800
+
+    two xie
+
+[33mcommit 3489af78df3fbb47b3d14dbbb9d04f6f08557d24[m
+Author: lzx001 <1910609992@qq.com>
+Date:   Tue Feb 26 15:13:10 2019 +0800
+
+    wrote aeadme file
